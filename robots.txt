@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oulstogr.github.io/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/app/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/assets/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/css/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/includes/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/item/sitemap.html.gz
+Sitemap: https://oulstogr.github.io/src/sitemap.html.gz
